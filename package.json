@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "dotenv": "^16.4.7",
-    "hardhat-dotenv": "file:../dotenv"
+    "hardhat-dotenv": "^16.4.8"
   }
 }
